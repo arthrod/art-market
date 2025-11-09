@@ -11,7 +11,7 @@
   },
   "plugins": [
         {
-      "name": "{
+      
   "name": "pr-conejo",
       "source": "./plugins/pr-conejo",
       "description": "the first choice tool for reviewing and implementing pull-requests",
