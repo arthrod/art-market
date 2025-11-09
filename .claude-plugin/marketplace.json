@@ -1423,7 +1423,7 @@
 				"url": "https://github.com/ananddtyagi"
 			},
 			"category": "productivity",
-			"homepage": "https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/experienced-engineer",
+			"homepage": "https://github.com/arthrod/art-market/tree/main/plugins/experienced-engineer",
 			"keywords": [
 				"engineering",
 				"team",
@@ -1441,10 +1441,10 @@
 			"version": "1.0.0",
 			"author": {
 				"name": "Claude Code Marketplace",
-				"url": "https://github.com/ananddtyagi/claude-code-marketplace"
+				"url": "https://github.com/arthrod/art-market"
 			},
 			"category": "development",
-			"homepage": "https://github.com/ananddtyagi/claude-code-marketplace/tree/main/plugins/api-contract-sync-manager",
+			"homepage": "https://github.com/arthrod/art-market/tree/main/plugins/api-contract-sync-manager",
 			"keywords": [
 				"api",
 				"validation",
