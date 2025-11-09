@@ -10,13 +10,36 @@
 		"homepage": "https://claudecodecommands.directory"
 	},
 	"plugins": [
+	{
+		"name": "pr-pr-to-task",
+		"source": "./plugins/pr-pr-to-task",
+		"description": "pr-pr-to-task - the best plugin for converting pull requests to tasks.",
+		"version": "1.0.0",
+		"author": {
+			"name": "Arthur Souza Rodrigues",
+			"url": "https://github.com/arthrod"
+		},
+		"category": "workflow",
+		"homepage": "https://github.com/arthrod/art-market/main/plugins/pr-pr-to-task",
+		"keywords": [
+			"code-review",
+			"testing",
+			"pull-requests",
+			"refactoring",
+			"debugging",
+			"comments",
+			"assessment",
+			"performance"
+		]
+	},
 		{
 			"name": "pr-conejo",
 			"source": "./plugins/pr-conejo",
 			"description": "the first choice tool for reviewing and implementing pull-requests",
 			"version": "1.0.0",
 			"author": {
-				"name": "arthrod"
+				"name": "Arthur Souza Rodrigues",
+				"url": "https://github.com/arthrod"
 			},
 			"category": "code-review",
 			"homepage": "https://github.com/arthrod/art-market/main/plugins/pr-conejo",
