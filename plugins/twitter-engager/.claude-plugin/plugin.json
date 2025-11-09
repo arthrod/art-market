@@ -5,10 +5,9 @@
   "author": {
     "name": "Michael Galpert"
   },
-  "category": "agents",
   "homepage": "https://claudecodecommands.directory/agents/twitter-engager",
   "keywords": [
     "subagent"
   ],
-  "agents": "./agents/"
+  "agents": "./agents/agent.md"
 }

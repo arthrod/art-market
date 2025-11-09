@@ -5,10 +5,9 @@
   "author": {
     "name": "Community"
   },
-  "category": "agents",
   "homepage": "https://claudecodecommands.directory/agents/unit-test-generator",
   "keywords": [
     "subagent"
   ],
-  "agents": "./agents/"
+  "agents": "./agents/agent.md"
 }

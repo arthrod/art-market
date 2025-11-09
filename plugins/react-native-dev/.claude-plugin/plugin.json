@@ -5,10 +5,9 @@
   "author": {
     "name": "abhishek shah"
   },
-  "category": "agents",
   "homepage": "https://claudecodecommands.directory/agents/react-native-dev",
   "keywords": [
     "subagent"
   ],
-  "agents": "./agents/"
+  "agents": "./agents/agent.md"
 }

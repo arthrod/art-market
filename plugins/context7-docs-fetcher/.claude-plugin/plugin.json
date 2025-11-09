@@ -5,10 +5,9 @@
   "author": {
     "name": "normalnormie"
   },
-  "category": "agents",
   "homepage": "https://claudecodecommands.directory/agents/context7-docs-fetcher",
   "keywords": [
     "subagent"
   ],
-  "agents": "./agents/"
+  "agents": "./agents/agent.md"
 }

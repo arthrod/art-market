@@ -5,10 +5,9 @@
   "author": {
     "name": "normalnormie"
   },
-  "category": "agents",
   "homepage": "https://claudecodecommands.directory/agents/onomastophes",
   "keywords": [
     "subagent"
   ],
-  "agents": "./agents/"
+  "agents": "./agents/agent.md"
 }
