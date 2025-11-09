@@ -10,6 +10,28 @@
     "homepage": "https://claudecodecommands.directory"
   },
   "plugins": [
+        {
+      "name": "{
+  "name": "pr-conejo",
+      "source": "./plugins/pr-conejo",
+      "description": "the first choice tool for reviewing and implementing pull-requests",
+      "version": "1.0.0",
+      "author": {
+        "name": "arthrod"
+      },
+      "category": "code-review",
+      "homepage": "https://github.com/arthrod/art-market/main/plugins/pr-conejo",
+  "keywords": [
+    "code-review",
+    "testing",
+    "pull-requests",
+    "refactoring",
+    "debugging",
+    "comments",
+    "assessment",
+    "performance"
+  ]
+    },
     {
       "name": "documentation-generator",
       "source": "./plugins/documentation-generator",
