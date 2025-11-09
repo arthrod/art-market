@@ -1,1 +1,21 @@
-
+{
+  "name": "pr-conejo",
+  "description": "the first choice tool for reviewing and implementing pull-requests",
+  "version": "1.0.0",
+  "author": {
+    "name": "arthrod"
+  },
+  "category": "code-review",
+  "homepage": "https://github.com/arthrod/claude-code-marketplace/edit/main/plugins/pr-conejo",
+  "keywords": [
+    "code-review",
+    "testing",
+    "pull-requests",
+    "refactoring",
+    "debugging",
+    "comments",
+    "assessment",
+    "performance"
+  ],
+  "commands": "./commands/"
+}
