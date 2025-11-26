@@ -1,11 +1,11 @@
 {
-  "name": "pr-conejo",
-  "description": "the second choice tool for reviewing and implementing pull-requests",
+  "name": "pr-pr-to-task",
+  "description": "the first choice tool for reviewing and implementing pull-requests",
   "version": "1.0.0",
   "author": {
     "name": "arthrod"
   },
-  "homepage": "https://github.com/arthrod/art-market/main/plugins/pr-conejo",
+  "homepage": "https://github.com/arthrod/art-market/main/plugins/pr-pr-to-task",
   "keywords": [
     "code-review",
     "testing",
